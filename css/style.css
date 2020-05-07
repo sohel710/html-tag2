@@ -1,0 +1,1034 @@
+*{
+	padding: 0px;
+	margin: 0px;
+} 
+body{
+	font-family: sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+    float: none;
+} 
+h1,h2,h3,h4,h5,h6{
+	font-family: sans-serif;
+}
+a,a:hover{
+	text-decoration: none;
+}
+
+/********
+
+ 
+ 
+**********/
+
+/*****************************
+   **All css code goes here**
+   ******************************/
+.header{
+    width: 100%;
+    padding: 80px 0px;
+}
+.header .manu{
+    width: 100%;
+    padding: 80px 0px;
+    background: url(../img/banr.png) center top no-repeat;
+    background-size: cover;
+    margin-left: 0px;
+    
+}
+.header .manu .nav{
+    text-align: right;
+    margin-left: 700px;
+}
+.header .manu .nav .nav-item{
+
+}
+.header .manu .nav .nav-item .nav-link{
+    font-size: 16px;
+    font-weight: 400;
+    color: #afc67b;
+}
+.header .manu .logo{
+    width: 100%;
+    margin-left: 769px;
+    padding: 56px;
+}
+.header .manu h4{
+    font-size: 31px;
+    font-weight: 300;
+    text-align: right;
+    padding-top: 10px;
+    margin-right: 93px;
+    color: #afc67b;
+}
+.header .manu h2{
+    font-size: 45px;
+    font-weight: 700;
+    text-align: right;
+    padding-top: 7px;
+    margin-right: 80px;
+    color: #afc67b;
+}
+.header .manu .btn-secondary{
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 792px;
+    border: 1px solid #4c5141;
+    color: #afc67b;
+    background: #515847;
+    margin-top: 86px;
+}
+.header .manu .btn-secondary:hover{
+    border: 1px solid #4c5141;
+    color: #afc67b;
+    background: transparent;
+}
+/*************************
+      bottom-baner
+*************************/
+
+.bottom-baner{
+    width: 100%;
+    padding: 1px 1px;
+    background: #000;
+    margin-left: 0px;
+}.bottom-baner .baner-inner{
+
+}
+.bottom-baner .baner-inner h5{
+    font-size: 29px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #68754c;
+    padding: 116px 0px 16px;
+}
+.bottom-baner .baner-inner p{
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: normal;
+    font-family: 'Caveat', cursive;
+    color: #fff;
+}
+.bottom-baner img{
+    width: 100%;
+    margin-left: 119px;
+
+}
+/*************************
+      detils
+*************************/
+.detils{
+    width: 100%;
+    padding: 80px 0px;
+    margin-left: 0px;
+    background: #45493b;
+}
+.detils .inner img{
+    margin-bottom: 13px;
+}
+.detils .inner h4{
+    font-size: 17px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+}
+.detils .inner p{
+    font-size: 13px;
+    line-height: 23px;
+    font-weight: normal;
+    font-family: 'Marck Script', cursive;
+    color: #fff;
+    margin-top: 15px;
+}
+/*************************
+      manu
+*************************/
+
+.manu{
+    width: 100%;
+    padding: 80px 0px;
+    margin-left: 0px;
+    background: url(../img/so.png) center top no-repeat;
+    background-size: cover;
+}
+.manu .manu-ineer h2{
+    font-size: 27px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #afc67b;
+    text-align: center;
+    padding-top: 44px;
+}
+.manu .manu-ineer h4{
+    font-size: 38px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 33px;
+}
+.manu .card{
+    margin-left: 65px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.manu .card .card-body{
+    background: #45493b;
+}
+.manu .card .card-body h2{
+    font-size: 32px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #afc67b;
+    text-align: center;
+    padding: 34px 0px 4px;
+}
+.manu .card .card-body p{
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+}
+.manu .card .card-body h4{
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+}
+/*************************
+      simple
+*************************/
+.simple{
+    width: 100%;
+    padding: 80px 0px;
+    background: #3e4136;
+}
+.simple .simpie-ineer h2{
+    font-size: 47px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #afc67b;
+    text-align: center;
+}
+.simple .simpie-ineer p{
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+    text-align: center;
+    margin-top: 31px;
+}
+.discover{
+    width: 100%;
+    padding: 300px 0px;
+    background: url(../img/banr2.png) center top no-repeat;
+    background-size: cover;
+}
+.discover .discover-inner {
+    background: #000;
+    margin-top: 218px;
+}
+.discover .discover-inner h2{
+    font-size: 63px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+    text-align: center;
+}
+.discover .discover-inner p{
+    font-size: 63px;
+    line-height: 30px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 26px;
+}
+.discover .inner{
+    padding-top: 80px;
+    background: #000;
+}
+.discover .inner img{
+    text-align: center;
+    margin-left: 117px;
+    padding-top: 32px;
+}
+.discover .inner h2{
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: #fff;
+    padding: 17px 0px;
+}
+.discover .inner p{
+    font-size: 17px;
+    line-height: 27px;
+    font-weight: normal;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 26px;
+}
+.discover-manu{
+    width: 100%;
+    padding: 80px 0px;
+}
+.discover-manu .manu-discover h2{
+    font-size: 64px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: #44463b;
+    padding: 10px 0px;
+}
+.discover-manu .manu-discover h5{
+    font-size: 44px;
+    line-height: 27px;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #44463b;
+    text-align: center;
+    padding-bottom: 46px;
+}
+.discover-manu .card{
+    margin-left: 5px;
+}
+.discover-manu .card .card-body h5{
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    color: #44463b;
+    padding: 2px 0px;
+}
+.discover-manu .card .card-body h2{
+    font-size: 22px;
+    font-weight: 600;
+    text-align: left;
+    color: #44463b;
+    padding: 3px 0px;
+}
+.discover-manu .card .card-body p{
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 300;
+    color: #000;
+    text-align: left;
+    padding-bottom: 26px;
+}
+/*****************************
+bottom section cod start
+******************************/
+
+.bottom{
+    width: 100%;
+    padding: 80px 0px;
+    background: #383b32;
+}
+.bottom h2{
+    font-size: 39px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    text-align: right;
+    color: #fff;
+    padding: 3px 28px;
+}
+.bottom p{
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: normal;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 26px;
+}
+.bottom .social-info{
+    display: block;
+    margin: 0px;
+    text-align: right;
+}
+.bottom .social-info li{
+    list-style: none;
+    display: inline-block;
+}
+.bottom .social-info li a{
+    font-size: 33px;
+    font-weight: 600;
+    color: #506A85;
+    margin-right: 10px;
+
+
+}
+.bottom .social-info li a i{
+   margin-right: 10px;
+   text-align: center;
+
+}
+.bottom .social-info li a i:hover{
+    color: #fff;
+}
+
+/*****************************
+   **futter section cod stat**
+******************************/
+.footer{
+    width: 100%;
+    padding: 80px 0px;
+}
+.footer h2{
+    font-size: 39px;
+    font-weight: 600;
+    text-align: left;
+    color: #000;
+    padding: 3px 28px;
+}
+.footer p{
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 300;
+    color: #000;
+    text-align: left;
+    padding-bottom: 26px;
+}
+.footer .inner{
+    display: block;
+    margin: 0px;
+    text-align: right;
+}
+.footer .inner li{
+    list-style: none;
+    display: inline-block;
+}
+.footer .inner li a{
+    font-size: 33px;
+    font-weight: 600;
+    color: #506A85;
+    margin-right: 10px;
+
+
+}
+.footer .inner li i a{
+   margin-right: 10px;
+   text-align: center;
+
+}
+/*****************************
+   **footer  code **
+******************************/
+.footer{
+    width: 100%;
+    padding: 1px 0px 0px;
+    background: #000;
+    text-align: right;
+}
+.footer .footer-inner{
+    display: block;
+    margin: 0px;
+
+}
+.footer .footer-inner .nav-item{
+    list-style: none;
+    display: inline-block;
+}
+.footer .footer-inner .nav-item .nav-link{
+    font-size: 18px;
+    font-weight: 600;
+    color: #506A85;
+    margin-right: 10px;
+    margin-top: 36px;
+}
+.footer .footer-inner .nav-item .nav-link:hover{
+    color: #fff;
+}
+.footer p{
+    font-size: 20px;
+    font-weight: 300;
+    color: tomato;
+    text-align: left;
+}
+
+/*****************************
+   **Plugin code goes here**
+******************************/
+.isStuck{
+    left:0px;
+    width:100%;
+    background: #000;
+}
+.navbar-wrapper{
+    width: 100%;
+    margin-top: 0px;
+    position: relative;
+    z-index: 15;
+}
+.sckill{
+    width: 100%;
+    padding: 80px 0px;
+}
+.sckill .barfiller {
+    width:100%;
+    height:12px;
+    background:#fcfcfc;
+    border:1px solid #ccc;
+    position:relative;
+    margin-bottom:20px;
+    box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5); 
+    -moz-box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5); 
+}
+
+.sckill .barfiller .fill {
+    display:block;
+    position:relative;
+    width:0px;
+    height:100%;
+    background:#333;
+    z-index:1;
+}
+
+.sckill .barfiller .tipWrap {
+    display:none;
+}
+
+.sckill .barfiller .tip {
+    margin-top:-30px;
+    padding:2px 4px;
+    font-size:11px;
+    color:#fff;
+    left:0px;
+    position:absolute;
+    z-index:2;
+    background: #333;
+} 
+
+.sckill .barfiller .tip:after {
+    border:solid;
+    border-color:rgba(0,0,0,.8) transparent;
+    border-width:6px 6px 0 6px;
+    content:"";
+    display:block;
+    position:absolute;
+    left:9px;
+    top:100%;
+    z-index:9;
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+        .header{
+            width: 100%;
+            padding: 80px 0px;
+        }
+        .header .manu{
+            width: 100%;
+            padding: 80px 0px;
+            background: url(../img/banr.png) center top no-repeat;
+            background-size: cover;
+            margin-left: 0px;
+            
+        }
+        .header .manu .nav{
+            text-align: right;
+            margin-left: 700px;
+        }
+        .header .manu .nav .nav-item{
+
+        }
+        .header .manu .nav .nav-item .nav-link{
+            font-size: 16px;
+            font-weight: 400;
+            color: #afc67b;
+        }
+        .header .manu .logo{
+            width: 100%;
+            margin-left: 769px;
+            padding: 56px;
+        }
+        .header .manu h4{
+            font-size: 31px;
+            font-weight: 300;
+            text-align: right;
+            padding-top: 10px;
+            margin-right: 93px;
+            color: #afc67b;
+        }
+        .header .manu h2{
+            font-size: 45px;
+            font-weight: 700;
+            text-align: right;
+            padding-top: 7px;
+            margin-right: 80px;
+            color: #afc67b;
+        }
+        .header .manu .btn-secondary{
+            font-size: 30px;
+            font-weight: 600;
+            margin-left: 792px;
+            border: 1px solid #4c5141;
+            color: #afc67b;
+            background: #515847;
+            margin-top: 86px;
+        }
+        .header .manu .btn-secondary:hover{
+            border: 1px solid #4c5141;
+            color: #afc67b;
+            background: transparent;
+        }
+        /*************************
+              bottom-baner
+        *************************/
+
+        .bottom-baner{
+            width: 100%;
+            padding: 1px 1px;
+            background: #000;
+            margin-left: 0px;
+        }.bottom-baner .baner-inner{
+
+        }
+        .bottom-baner .baner-inner h5{
+            font-size: 29px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #68754c;
+            padding: 116px 0px 16px;
+        }
+        .bottom-baner .baner-inner p{
+            font-size: 16px;
+            line-height: 27px;
+            font-weight: normal;
+            font-family: 'Caveat', cursive;
+            color: #fff;
+        }
+        .bottom-baner img{
+            width: 100%;
+            margin-left: 119px;
+
+        }
+        /*************************
+              detils
+        *************************/
+        .detils{
+            width: 100%;
+            padding: 80px 0px;
+            margin-left: 0px;
+            background: #45493b;
+        }
+        .detils .inner img{
+            margin-bottom: 13px;
+        }
+        .detils .inner h4{
+            font-size: 17px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #fff;
+        }
+        .detils .inner p{
+            font-size: 13px;
+            line-height: 23px;
+            font-weight: normal;
+            font-family: 'Marck Script', cursive;
+            color: #fff;
+            margin-top: 15px;
+        }
+        /*************************
+              manu
+        *************************/
+
+        .manu{
+            width: 100%;
+            padding: 80px 0px;
+            margin-left: 0px;
+            background: url(../img/so.png) center top no-repeat;
+            background-size: cover;
+        }
+        .manu .manu-ineer h2{
+            font-size: 27px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #afc67b;
+            text-align: center;
+            padding-top: 44px;
+        }
+        .manu .manu-ineer h4{
+            font-size: 38px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #fff;
+            text-align: center;
+            padding-bottom: 33px;
+        }
+        .manu .card{
+            margin-left: 65px;
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        .manu .card .card-body{
+            background: #45493b;
+        }
+        .manu .card .card-body h2{
+            font-size: 32px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #afc67b;
+            text-align: center;
+            padding: 34px 0px 4px;
+        }
+        .manu .card .card-body p{
+            font-size: 30px;
+            line-height: 30px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #fff;
+        }
+        .manu .card .card-body h4{
+            font-size: 20px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #fff;
+        }
+        /*************************
+              simple
+        *************************/
+        .simple{
+            width: 100%;
+            padding: 80px 0px;
+            background: #3e4136;
+        }
+        .simple .simpie-ineer h2{
+            font-size: 47px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #afc67b;
+            text-align: center;
+        }
+        .simple .simpie-ineer p{
+            font-size: 30px;
+            line-height: 30px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #fff;
+            text-align: center;
+            margin-top: 31px;
+        }
+        .discover{
+            width: 100%;
+            padding: 300px 0px;
+            background: url(../img/banr2.png) center top no-repeat;
+            background-size: cover;
+        }
+        .discover .discover-inner {
+            background: #000;
+            margin-top: 218px;
+        }
+        .discover .discover-inner h2{
+            font-size: 63px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #fff;
+            text-align: center;
+        }
+        .discover .discover-inner p{
+            font-size: 63px;
+            line-height: 30px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #fff;
+            text-align: center;
+            padding-bottom: 26px;
+        }
+        .discover .inner{
+            padding-top: 80px;
+            background: #000;
+        }
+        .discover .inner img{
+            text-align: center;
+            margin-left: 117px;
+            padding-top: 32px;
+        }
+        .discover .inner h2{
+            font-size: 20px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            text-align: center;
+            color: #fff;
+            padding: 17px 0px;
+        }
+        .discover .inner p{
+            font-size: 17px;
+            line-height: 27px;
+            font-weight: normal;
+            color: #fff;
+            text-align: center;
+            padding-bottom: 26px;
+        }
+        .discover-manu{
+            width: 100%;
+            padding: 80px 0px;
+        }
+        .discover-manu .manu-discover h2{
+            font-size: 64px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            text-align: center;
+            color: #44463b;
+            padding: 10px 0px;
+        }
+        .discover-manu .manu-discover h5{
+            font-size: 44px;
+            line-height: 27px;
+            text-transform: uppercase;
+            font-weight: normal;
+            color: #44463b;
+            text-align: center;
+            padding-bottom: 46px;
+        }
+        .discover-manu .card{
+            margin-left: 5px;
+        }
+        .discover-manu .card .card-body h5{
+            font-size: 15px;
+            font-weight: normal;
+            text-align: left;
+            color: #44463b;
+            padding: 2px 0px;
+        }
+        .discover-manu .card .card-body h2{
+            font-size: 22px;
+            font-weight: 600;
+            text-align: left;
+            color: #44463b;
+            padding: 3px 0px;
+        }
+        .discover-manu .card .card-body p{
+            font-size: 16px;
+            line-height: 27px;
+            font-weight: 300;
+            color: #000;
+            text-align: left;
+            padding-bottom: 26px;
+        }
+        /*****************************
+        bottom section cod start
+        ******************************/
+
+        .bottom{
+            width: 100%;
+            padding: 80px 0px;
+            background: #383b32;
+        }
+        .bottom h2{
+            font-size: 39px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            text-align: right;
+            color: #fff;
+            padding: 3px 28px;
+        }
+        .bottom p{
+            font-size: 36px;
+            line-height: 46px;
+            font-weight: normal;
+            font-family: 'Dancing Script', cursive;
+            color: #fff;
+            text-align: center;
+            padding-bottom: 26px;
+        }
+        .bottom .social-info{
+            display: block;
+            margin: 0px;
+            text-align: right;
+        }
+        .bottom .social-info li{
+            list-style: none;
+            display: inline-block;
+        }
+        .bottom .social-info li a{
+            font-size: 33px;
+            font-weight: 600;
+            color: #506A85;
+            margin-right: 10px;
+
+
+        }
+        .bottom .social-info li a i{
+           margin-right: 10px;
+           text-align: center;
+
+        }
+        .bottom .social-info li a i:hover{
+            color: #fff;
+        }
+
+        /*****************************
+           **futter section cod stat**
+        ******************************/
+        .footer{
+            width: 100%;
+            padding: 80px 0px;
+        }
+        .footer h2{
+            font-size: 39px;
+            font-weight: 600;
+            text-align: left;
+            color: #000;
+            padding: 3px 28px;
+        }
+        .footer p{
+            font-size: 16px;
+            line-height: 27px;
+            font-weight: 300;
+            color: #000;
+            text-align: left;
+            padding-bottom: 26px;
+        }
+        .footer .inner{
+            display: block;
+            margin: 0px;
+            text-align: right;
+        }
+        .footer .inner li{
+            list-style: none;
+            display: inline-block;
+        }
+        .footer .inner li a{
+            font-size: 33px;
+            font-weight: 600;
+            color: #506A85;
+            margin-right: 10px;
+
+
+        }
+        .footer .inner li i a{
+           margin-right: 10px;
+           text-align: center;
+
+        }
+        /*****************************
+           **footer  code **
+        ******************************/
+        .footer{
+            width: 100%;
+            padding: 1px 0px 0px;
+            background: #000;
+            text-align: right;
+        }
+        .footer .footer-inner{
+            display: block;
+            margin: 0px;
+
+        }
+        .footer .footer-inner .nav-item{
+            list-style: none;
+            display: inline-block;
+        }
+        .footer .footer-inner .nav-item .nav-link{
+            font-size: 18px;
+            font-weight: 600;
+            color: #506A85;
+            margin-right: 10px;
+            margin-top: 36px;
+        }
+        .footer .footer-inner .nav-item .nav-link:hover{
+            color: #fff;
+        }
+        .footer p{
+            font-size: 20px;
+            font-weight: 300;
+            color: tomato;
+            text-align: left;
+        }
+
+        /*****************************
+           **Plugin code goes here**
+        ******************************/
+        .isStuck{
+            left:0px;
+            width:100%;
+            background: #000;
+        }
+        .navbar-wrapper{
+            width: 100%;
+            margin-top: 0px;
+            position: relative;
+            z-index: 15;
+        }
+        .sckill{
+            width: 100%;
+            padding: 80px 0px;
+        }
+        .sckill .barfiller {
+            width:100%;
+            height:12px;
+            background:#fcfcfc;
+            border:1px solid #ccc;
+            position:relative;
+            margin-bottom:20px;
+            box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5); 
+            -moz-box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5); 
+        }
+
+        .sckill .barfiller .fill {
+            display:block;
+            position:relative;
+            width:0px;
+            height:100%;
+            background:#333;
+            z-index:1;
+        }
+
+        .sckill .barfiller .tipWrap {
+            display:none;
+        }
+
+        .sckill .barfiller .tip {
+            margin-top:-30px;
+            padding:2px 4px;
+            font-size:11px;
+            color:#fff;
+            left:0px;
+            position:absolute;
+            z-index:2;
+            background: #333;
+        } 
+
+        .sckill .barfiller .tip:after {
+            border:solid;
+            border-color:rgba(0,0,0,.8) transparent;
+            border-width:6px 6px 0 6px;
+            content:"";
+            display:block;
+            position:absolute;
+            left:9px;
+            top:100%;
+            z-index:9;
+        } 
+         
+  
+}
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  //CSS
+  
+}
